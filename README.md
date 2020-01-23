@@ -7,11 +7,15 @@
   <strong>CAPTRY</strong>
 </h1>
 
+
+
 <p align="center">
-  <a href="firebase.google.com"><img src="https://img.shields.io/badge/readme-docs-3484C6.svg" alt="firebase" /></a>
-  <a href="https://youtube.com/enjelhutasoit"><img src="https://img.shields.io/badge/youtube-channel-e52d27.svg" alt="Youtube" /></a>
-  <a href="https://twitter.com/enjelhutasoit"><img src="https://img.shields.io/twitter/follow/vr_toolkit.svg?style=flat&label=twitter" alt="twitter" /></a>
+  </a>&nbsp;&nbsp;&nbsp;<a href="mailto:enjel.hutasoit@gmail.com"><img src="https://img.shields.io/badge/Email-enjel.hutasoit@gmail.com-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/enjelhutasoit" target="_blank"><img src="https://img.shields.io/badge/linkedin-enjelhutasoit-brightgreen.svg?style=for-the-badge&logo=linkedin&logoColor=white" >  
+</a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/enjelhutasoit" target="_blank"><img src="https://img.shields.io/badge/twitter-enjelhutasoit-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
+
+
+
 
 Captry is an iOS app that provide camera tutorial with real time practice to learn photo composition.
 
@@ -34,19 +38,21 @@ Therefore, to overcome the limitation that camera phone has, learning how to max
 
 We came with a solution concept to build an app that provide camera tutorial with real time practice to learn composition of the photo. And we named it **Captry**.
 
-_**STATUS: This project is currently undermaintained.**_
+_**STATUS: This project is under maintaince.**_
 
 ## TECHNICAL
-**Freamework:**
-- [x] UIKit
-- [x] AVKit
-- [x] CoreData
-- [x] AVFoundation
-- [x] CocoaPods
+**Technologies Used:**
+
+`UIKit`
+`AVKit`
+`CoreData`
+`AVFoundation`
+`CocoaPods`
 
 **Developer tools:**
-- [x] Swift
-- [x] Xcode
+
+`Swift`
+`Xcode`
 
 ## DESIGN
 All design element e.g: 
@@ -64,8 +70,8 @@ For next development, here are a real quick features to do:
 - [ ] Add more content
 
 ## CONTACT
-Created by me ([Enjel Hutasoit](http://github.com/enjelhutasoit)) and **Captry Team**. 
-In this project I worked as a coder.
+Build by me ([Enjel Hutasoit](http://github.com/enjelhutasoit)) and **Captry Team**. 
+In this project I worked as a coder/developer.
 
 **Note:**<br>
 The last but not least, feel free to connect with me on:
